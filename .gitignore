@@ -1,0 +1,15 @@
+*.iml
+*.target
+/*/target
+*.log
+*.project
+.idea/workspace.xml
+*.idea
+*.iml
+.classpath
+.settings
+.settings/
+out
+
+/**/src/main/resources/static/node_modules
+/**/src/main/resources/static/public/build
